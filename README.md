@@ -20,7 +20,7 @@ This file performs the optimization of the trained networks using Genetic Algori
 The following input files are required for proper functionality:
 
 - **input_treinamento**: Contains the input data used to train the neural networks.
-- **output_treinamento**: Contains the output data used for blind testing and model validation.
+- **output_treinamento**: Contains the output.
 
 Both input files must be in the same folder as the main MATLAB files.
 
